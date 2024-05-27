@@ -1,0 +1,9 @@
+.fa-heart {
+  color: rgb(253, 253, 253); /* Initial color */
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.red {
+  color: red; /* Color when clicked */
+}
