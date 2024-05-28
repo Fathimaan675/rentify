@@ -1,1 +1,1 @@
-export const SERVER_URL = 'https://rendserver.onrender.com'
+export const SERVER_URL = 'https://rendserver-2.onrender.com'
